@@ -19,6 +19,6 @@ Data will be cleaned in order to have smoothness across all the datasets.
 
 #### Data Viz
 We will use various plots to see how the different parameters correlate to one another. How the distribution of GDP, Oil Consumption and CO2 emissions look like among chosen set of countries.
-At the end we shall have an overview of all the indicators in an animation to get an idea on how the three evolved with time.
+At the end we shall have an overview of all the indicators in an animation to get an idea on how the three evolved with time. The inspiration behind the animation was the [TED Talk by Hans Rosling of Gapminder](https://www.youtube.com/watch?v=hVimVzgtD6w "TED Talk by Hans Rosling of Gapminder").
 And lastly, we will attempt to see the data on a Choropleth map!
 
