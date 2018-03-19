@@ -4,6 +4,12 @@ In the frame of this project, we will explore three datasets from Gapminder's tr
 - CO2 Emissions
 - GDP
 
+##### Requirements
+Python 3.6 (or higher)<br>
+matplotlib 2.1 (or higher)<br>
+numpy 1.10 (or higher)<br>
+cartopy 0.16.0
+
 ### Structure
 The structure of the project is as follows:
 - Data Wrangling
