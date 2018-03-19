@@ -8,6 +8,7 @@ In the frame of this project, we will explore three datasets from Gapminder's tr
 Python 3.6 (or higher)<br>
 matplotlib 2.1 (or higher)<br>
 numpy 1.10 (or higher)<br>
+pandas 0.20 (or higher) <br>
 cartopy 0.16.0
 
 ### Structure
